@@ -3,14 +3,17 @@
 * [PiTcoinとは](#anchor1)
 * [PiTcoinの取得方法](#anchor2)
 * [PiTcoinの利用方法](#anchor3)
+
 <a id="#anchor1"></a>
 
 ## <a href="#anchor1">PiTcoinとは</a> 
-
-<a id="anchor2"></a>
+PiTコインは、高齢者の方の問題を解決したい高齢化が進んだ地域に向けた地域通貨です。<br>
+ユーザーは依頼された問題を達成することにより通貨を得ることができ、その市町村で生産される特産品などと交換することができます。<br>
+配達業者のような企業とは違い基本的に無料で頼むことができ、さらに依頼を通じた交流での地域活性化ができることが特徴です。
+koto<a id="anchor2"></a>
 
 ## <a href="#anchor1">PiTcoinの取得方法</a>  
-
+クライアントの依頼の達成、物品の提供、現金との交換で得ることができます。<br>
 <a id="anchor3"></a>
 
 ## <a href="#anchor2">PiTcoinの利用方法</a>

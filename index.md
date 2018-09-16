@@ -31,7 +31,7 @@ PiTコインはポイントに応じて物品や特産品と交換すること�
 
 <a id="anchor4"></a>
 
-## <a href="#anchor2">PiTコインの取得方法</a>
+## <a href="#anchor4">PiTコインの取得方法</a>
 <img width="200px"alt="特産物" src="http://4.bp.blogspot.com/-14XsgOnPSrg/VoX5JD6nDEI/AAAAAAAA2Sg/VSyE7I4uhn4/s800/chisanchisyou_tokusanhin.png">
 １.物品との交換<br>
 野菜や果物などの特産品やもう使わなくなった品物と交換することができます<br>
@@ -55,13 +55,6 @@ PiTコインはポイントに応じて物品や特産品と交換すること�
 
 [ご登録はこちら]()
 
-<a id="anchor3"></a>
-
-## <a href="#anchor3">他社の差別化</a>
-
-依頼された問題や困りごとは、手の空いているユーザーが解決を行います。<br>
-
-そのため、あらゆる困りごとや問題を気軽に依頼すること
 
 <a id="anchor5"></a>
 

@@ -22,7 +22,7 @@ PiTコインはポイントに応じて物品や特産品と交換すること�
 <br>
 <br>
 <br>
-[コインの入手方法](https://16-2505-058-4.github.io/app/shiyouhouhou.md)
+[コインの入手方法](https://16-2505-058-4.github.io/app/shiyouhouhou)
 <a id="anchor3"></a>
 ## <a href="#anchor3">他社の差別化</a>
 依頼された問題や困りごとは、手の空いているユーザーが解決を行います。<br>

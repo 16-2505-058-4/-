@@ -14,5 +14,5 @@
 
 6.本申請の合否の通知が来ます。<br><br><br>
 本申請が通れば登録成功です。<br>
-<br><br>
-[戻る](https://16-2505-058-4.github.io/app/index)
+<br>
+[トップページに戻る](https://16-2505-058-4.github.io/app/index)

@@ -1,4 +1,4 @@
-<src="./pitcoin.png">
+<img width="200px" alt="特産物" src="./pitcoin.png ">
 # <a href="#index">目次</a>
 * [PiTコインとは](#anchor1)
 * [PiTコインを持つメリットと利用方法](#anchor2)

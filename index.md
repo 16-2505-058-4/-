@@ -1,3 +1,4 @@
+<img width="800px" alt="特産物" src="./pitcoin.png "><br>
 ## <a href="#index">目次</a>
 * [PiTコインとは](#anchor1)
 * [PiTコインを持つメリットと利用方法](#anchor2)
@@ -5,7 +6,7 @@
 * [PiTコインの取得方法](#anchor4)
 * [登録方法](#anchor5)
 * [ダウンロード方法](#anchor6)<br>
-<img width="500px" alt="特産物" src="./pitcoin.png "><br>
+
 ## <a href="#anchor1">PiTコインとは</a> 
 PiTコインは、高齢者の方の問題を解決したい高齢化が進んだ地域に向けた地域通貨です。<br>
 ユーザーは依頼された問題を達成することにより通貨を得ることができ、その市町村で生産される特産品などと交換することができます。<br>

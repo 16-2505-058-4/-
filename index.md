@@ -1,4 +1,4 @@
-# hello everybody
+# PITコインかいましょ
 ## <a href="#index">目次</a>
 * [PiTコインとは](#anchor1)
 * [PiTコインを持つメリットと利用方法](#anchor2)

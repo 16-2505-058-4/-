@@ -4,8 +4,7 @@
 * [PiTコインを持つメリットと利用方法](#anchor2)
 * [他社の差別化](#anchor3)
 * [PiTコインの取得方法](#anchor4)
-* [登録方法](#anchor5)
-* [ダウンロード方法](#anchor6)
+
 
 ## <a href="#anchor1">PiTコインとは</a> 
 PiTコインは、高齢者の方の問題を解決したい高齢化が進んだ地域に向けた地域通貨です。<br>
@@ -23,7 +22,7 @@ PiTコインはポイントに応じて物品や特産品と交換すること�
 <br>
 <br>
 <br>
-[ご登録はこちら](https://16-2505-058-4.github.io/app/shiyouhouhou.md)
+[コインの入手方法](https://16-2505-058-4.github.io/app/shiyouhouhou.md)
 <a id="anchor3"></a>
 ## <a href="#anchor3">他社の差別化</a>
 依頼された問題や困りごとは、手の空いているユーザーが解決を行います。<br>
@@ -55,18 +54,6 @@ PiTコインはポイントに応じて物品や特産品と交換すること�
 <br>
 
 [ご登録はこちら]()
-
-
-<a id="anchor5"></a>
-
-## <a href="#anchor5">登録方法</a>
-
-
-
-<a id="anchor6"></a>
-
-## <a href="#anchor6">ダウンロード方法</a>
-
 
 
 
